@@ -14,6 +14,7 @@ Fig.2. Overview of Automatic FSS: Our automatic FSS scheme operates on the QTF-1
 # 3. Results
 
 ![image](https://github.com/GilalNauman/Automatic-Few-shot-Selction-ISNCC/assets/62802429/6d851396-f3d6-4a97-8878-035887e56dc7)
+The visual segmentation results on QTF-10 dataset: The top row displays the manual FSS; the middle row exhibits the automatic segmentation results using FSS with a baseline approach; and finally, the bottom row shows the automatic segmentation outcomes using FSS with a cleaning scheme, employing five images per class. While the red bounding box colors signify where predictions are incorrect and missing.
 
 
 ![image](https://github.com/GilalNauman/Automatic-Few-shot-Selction-ISNCC/assets/62802429/8220d015-3801-4724-81d3-d96e8c2b5e56)
