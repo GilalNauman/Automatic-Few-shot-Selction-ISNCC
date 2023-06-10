@@ -19,4 +19,5 @@ Scrapped web-collected data set available [here](https://www.kaggle.com/datasets
 ![image](https://github.com/GilalNauman/Automatic-Few-shot-Selction-ISNCC/assets/62802429/cd79299e-7e8f-4715-b710-84c4251567da)
 
 More Visual Segmentation results:
+
 https://www.dropbox.com/s/8u9ss4ea50hv4r6/Noise2Seg.mp4?dl=0
