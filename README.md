@@ -25,5 +25,4 @@ Fig.2. Overview of Automatic FSS: Our automatic FSS scheme operates on the QTF-1
 The visual segmentation results on QTF-10 dataset: The top row displays the manual FSS; the middle row exhibits the automatic segmentation results using FSS with a baseline approach; and finally, the bottom row shows the automatic segmentation outcomes using FSS with a cleaning scheme, employing five images per class. While the red bounding box colors signify where predictions are incorrect and missing.
 
 More Visual Segmentation results:
-
-https://www.dropbox.com/s/8u9ss4ea50hv4r6/Noise2Seg.mp4?dl=0
+https://www.dropbox.com/s/3cdz6ovc4hw2cqq/Noise2Seg.mp4?dl=0
